@@ -1,8 +1,8 @@
-import Flexbox from "./pages/Flexbox";
+import Grid from "./pages/Grid";
 
 export default function App() {
   return (
-    <Flexbox />
+    <Grid />
   );
 }
 
